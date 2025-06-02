@@ -5,3 +5,7 @@ my files
 
 
 ![alt text](https://info.legitsecurity.com/hubfs/Legit%20Security%20Featured%20Image%20v2.png)
+
+test
+
+`pip install legit-copilot`
