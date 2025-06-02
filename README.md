@@ -7,6 +7,6 @@ my files
 ![alt text](https://info.legitsecurity.com/hubfs/Legit%20Security%20Featured%20Image%20v2.png)
 
 test
-![alt text](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+![alt text](https://pngimg.com/uploads/github/github_PNG58.png)
 
 ![alt text](https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png)
