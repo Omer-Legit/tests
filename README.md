@@ -7,5 +7,4 @@ my files
 ![alt text](https://info.legitsecurity.com/hubfs/Legit%20Security%20Featured%20Image%20v2.png)
 
 test
-
-`pip install legit-copilot`
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw1kGQb4SAIM_CQLXhFP_ntQ&ust=1748987753183000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDF0Z_d040DFQAAAAAdAAAAABAE)
